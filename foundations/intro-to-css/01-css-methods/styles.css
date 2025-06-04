@@ -1,0 +1,18 @@
+.red { 
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+.text {
+    color: white;
+}
+
+.green {
+    background-color: green;
+}
+
+.orange {
+    background-color: orange;
+}
